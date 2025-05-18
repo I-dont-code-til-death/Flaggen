@@ -9,7 +9,7 @@ import java.io.IOException;
 public class ImageOverlayProgram {
 
     public static void main(String[] args) {
-        args = new String[] {"sv", "\"C:\\Users\\Paulf\\Downloads\\Flag", "of","the","United","States.png\""};
+        //args = new String[] {"sv", "\"C:\\Users\\Paulf\\Downloads\\Flag", "of","the","United","States.png\""};
         // --- Default Input Values (replace with actual inputs or command line arguments) ---
         String imagePath1 = "en"; // Path to the first PNG
         int i = 0;
